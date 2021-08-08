@@ -1,0 +1,9 @@
+# ignore tg session file
+*.session
+*.session-journal
+
+# intelJ file
+*.idea
+
+# log file
+*.txt

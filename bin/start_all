@@ -1,0 +1,3 @@
+nohup python /root/tg_collect/supervisor.py >> /dev/null &
+nohup python /root/tg_collect/task/download_avatar.py >> /dev/null &
+nohup python /root/tg_collect/task/download_file.py >> /dev/null &
